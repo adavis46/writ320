@@ -27,7 +27,7 @@ All major course deliverables are components of a semester-length technical docu
 
 ## Textbook
 ![Developing Quality Technical Information textbook image](textbook.jpg)  
-*Developing Quality Technical Information: A Handbook for Writers and Editors,* 3rd Edition. IBM Press, 2014. 
+[*Developing Quality Technical Information: A Handbook for Writers and Editors,* 3rd Edition. IBM Press, 2014.](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975) 
 
 ## Tools and Languages
 
@@ -56,4 +56,4 @@ Technical writing is a useful and marketable skill for most majors, even for tho
 - **Hard Sciences**: Technical Writing is a great complement to our new Scientific Writing class. While Scientific Writing is more about situation-specific application, Technical Writing provides a process and heuristics for large-scale project documentation. 
 - **Social Sciences**: Documentation is a huge part of the social sciences, whether it comes in the form of government reporting for social workers or IRB compliance for psychologists. Technical Writing provides a framework for writing projects that include many moving parts and multiple authors and auidences. 
 
-For more information, contact Andrew Davis at addavis@olemiss.edu. 
+For more information, contact Andrew Davis at [addavis@olemiss.edu](mailto:addavis@olemiss.edu). 
