@@ -26,7 +26,7 @@ All major course deliverables are components of a semester-length technical docu
 6. **Evaluation and Usability Test Design:** Study designs for product evaluation based on usability testing models and preliminary analysis of testing validity. 
 
 ## Textbook
-![Developing Quality Technical Information textbook image](textbook.jpg)
+![Developing Quality Technical Information textbook image](textbook.jpg)  
 *Developing Quality Technical Information: A Handbook for Writers and Editors,* 3rd Edition. IBM Press, 2014. 
 
 ## Tools and Languages
